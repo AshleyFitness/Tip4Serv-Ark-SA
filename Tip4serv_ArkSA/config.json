@@ -1,0 +1,6 @@
+{
+"key": "YOUR_API_KEY",
+"request_interval_in_minutes" : 1,
+"order_received_text" : "Thank you for your purchase :)",
+"store_url" : "YOUR_STORE_URL"
+}
