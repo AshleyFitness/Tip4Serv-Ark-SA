@@ -68,7 +68,7 @@ Required: ARK Shop plugin
 
 `giveitemtoplayer {ue5id} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinPants.PrimalItemArmor_ChitinPants'" 1 1 true`
 
-***More simple command with gfi to give a sword to the player:***
+***Simpler command with gfi to give a sword to the player:***
 
 `gfi WeaponSword 1 1 0`
 
