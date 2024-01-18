@@ -62,7 +62,7 @@ But you can use all commands of the plugins that you have installed on your serv
 
 Required: ARK Shop plugin
 
-`AddPoints {eosid} `
+`AddPoints {eosid} 51`
 
 ***Give Chitin Pants to a player:***
 
