@@ -72,6 +72,8 @@ Required: ARK Shop plugin
 
 `gfi WeaponSword 1 1 0`
 
+[Items list](https://ark-unity.com/ark-survival-ascended/items/adobe-doors-windows/)
+
 ***Send message to all players:***
 
 `Broadcast Thank you {arksa_username} for your {total_paid} {currency} donation`
