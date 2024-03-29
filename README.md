@@ -60,7 +60,7 @@ But you can use all commands of the plugins that you have installed on your serv
 
 ***Add points to a player:***
 
-Required: ARK Shop plugin
+Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/)
 
 `AddPoints {eosid} 51`
 
