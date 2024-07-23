@@ -74,9 +74,9 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 [Items list](https://ark-unity.com/ark-survival-ascended/items/adobe-doors-windows/)
 
-***Send message to all players:***
+***Send chat message to all players:***
 
-`Broadcast Thank you {arksa_username} for your {total_paid} {currency} donation`
+`ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
 
 ## Quantity multiplier
 
