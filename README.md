@@ -68,7 +68,7 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 `giveitemtoplayer {ue5id} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinPants.PrimalItemArmor_ChitinPants'" 1 1 true`
 
-***Simpler command with gfi to give a sword to the player:***
+***Simpler command with gfi to give a sword to the player:*** (not working with RCON connection)
 
 `gfi WeaponSword 1 1 0`
 
