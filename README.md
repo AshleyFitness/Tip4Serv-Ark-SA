@@ -68,12 +68,6 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 `giveitemtoplayer {ue5id} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinPants.PrimalItemArmor_ChitinPants'" 1 1 true`
 
-***Simpler command with gfi to give a sword to the player:*** (not working with RCON connection)
-
-`gfi WeaponSword 1 1 0`
-
-[Items list](https://ark-unity.com/ark-survival-ascended/items/adobe-doors-windows/)
-
 ***Send chat message to all players:***
 
 `ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
