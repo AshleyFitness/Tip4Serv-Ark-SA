@@ -96,7 +96,7 @@ Configuration: Add all your servers in the [product editor](https://docs.tip4ser
 
 Functionality: The player can choose the map where they want to receive their items. Commands will be executed only if the player is connected to the chosen map.
 
-***Rank and Point Sales***
+***Permissions and Points Sales***
 
 Configuration: If you are selling only ranks and points and your maps are connected to the same database, add only your most popular server in your [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
 
