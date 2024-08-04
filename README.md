@@ -66,7 +66,9 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 ***Give Chitin Pants to a player:***
 
-`giveitemtoplayer {ue5id} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Chitin/PrimalItemArmor_ChitinPants.PrimalItemArmor_ChitinPants'" 1 1 true`
+`GiveItemToPlayer {ue5id} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'" 2 65 0`
+
+Command generator: [ARK COMMANDS](https://arkids.net/command/giveitemtoplayer)
 
 ***Send chat message to all players:***
 
