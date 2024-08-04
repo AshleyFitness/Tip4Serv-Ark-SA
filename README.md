@@ -64,7 +64,7 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 `AddPoints {eosid} 51`
 
-***Give Chitin Pants to a player:***
+***Give Item to a player:***
 
 `GiveItemToPlayer {ue5id} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_ElementShard.PrimalItemResource_ElementShard'" 2 65 0`
 
