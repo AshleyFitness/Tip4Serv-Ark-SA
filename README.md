@@ -68,7 +68,7 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 `ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
 
-## Add an Item to a Player's Inventory
+***Add an Item to a Player's Inventory***
 
 **Important:** To use this command, you must utilize the designated plugin and not an RCON connection. Additionally, ensure that **Player must be online** is selected in the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
 
