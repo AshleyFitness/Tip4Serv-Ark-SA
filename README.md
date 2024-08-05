@@ -70,7 +70,7 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 ***Add an Item to a Player's Inventory***
 
-**Important:** To use this command, you must use this plugin and not the Tip4Serv RCON connection. Additionally, ensure that **Player must be online** is selected in the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
+**Important:** To use this command, you must use this plugin and not the Tip4Serv RCON connection. Additionally, ensure that **Player must be online** is selected in the [command editor](https://docs.tip4serv.com/store-setup/server-commands#id-3.-commands-editor).
 
 `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
 
