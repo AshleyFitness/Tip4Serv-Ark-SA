@@ -60,7 +60,7 @@ But you can use all commands of the plugins that you have installed on your serv
 
 ***Add points to a player and let them buy the items:***
 
-Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/)
+Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/) or [WShop UI mod](https://www.curseforge.com/ark-survival-ascended/mods/wshop-ui)
 
 `AddPoints {eosid} 51`
 
