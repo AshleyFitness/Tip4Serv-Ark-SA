@@ -58,7 +58,7 @@ Open an account on [Tip4serv.com](https://tip4serv.com/?ads=github) and add an A
 Here are some commands example you can use in the products configuration: [MY PRODUCTS](https://tip4serv.com/dashboard/my-products).
 But you can use all commands of the plugins that you have installed on your server.
 
-***Add points to a player:***
+***Add points to a player and let them buy the items:***
 
 Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/)
 
@@ -68,11 +68,12 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 `ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
 
-***Give an item to a player:***
+# Add an Item to a Player's Inventory
 
-Important: For this command to work you must use this plugin and not the RCON connection. You must also select **Player must be online** in the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
+**Important:** To use this command, you must utilize the designated plugin and not an RCON connection. Additionally, ensure that **Player must be online** is selected in the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
 
-`GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
+```plaintext
+GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false```
 
 ## Quantity multiplier
 
