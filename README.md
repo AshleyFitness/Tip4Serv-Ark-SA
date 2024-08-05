@@ -70,7 +70,7 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 ***Give an item to a player:***
 
-Important: For this command to work you must use this plugin and not the RCON connection. You must also check **Player must be online** in the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
+Important: For this command to work you must use this plugin and not the RCON connection. You must also select **Player must be online** in the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor).
 
 `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
 
