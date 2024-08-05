@@ -74,6 +74,8 @@ Required: [ARK Shop plugin](https://gameservershub.com/forums/resources/ark-surv
 
 `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
 
+Command generator: [ARK COMMANDS](https://arkids.net/command/giveitem)
+
 ## Quantity multiplier
 
 You can also multiply the quantity choosen by the customer like this: {quantity*50}
