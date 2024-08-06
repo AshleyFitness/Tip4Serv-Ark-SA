@@ -50,13 +50,13 @@ Send a public thank you message in the server chat.
 
 ### Sell Items and Experience
 
+**Purpose:**  
+Provide players with items or experience.
+
 **Prerequisites:**  
 - The Tip4Serv plugin must be used, as these commands are incompatible with RCON.
 - Ensure the plugin is installed on the server where the player will receive their items.
 - Check the **"Allow server choice"** option and select **"Player must be online"** in the product editor.
-
-**Purpose:**  
-Provide players with items or experience.
 
 **Examples:**  
 - `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
@@ -66,25 +66,25 @@ Command generator: [ARK COMMANDS](https://arkids.net/commands)
 
 ### Sell Points
 
+**Purpose:**  
+Add points to a player's account, allowing them to purchase in-game items.
+
 **Prerequisites:**  
 - [ArkShop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/) or [WShop UI mod](https://www.curseforge.com/ark-survival-ascended/mods/wshop-ui) is required.
 - This command can be executed via the plugin or RCON.
-
-**Purpose:**  
-Add points to a player's account, allowing them to purchase in-game items.
 
 **Example Command:**  
 `AddPoints {eosid} 51`
 
 ### Sell Permissions for Subscriptions
 
+**Purpose:**  
+Add or remove permissions for a player.
+
 **Prerequisites:**  
 - [Permissions plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-permissions-crossplay-supported.713/) is necessary.
 - Commands can be run using the plugin or RCON.
 - For multiple maps, add only one server in your product if all servers connect to the same database.
-
-**Purpose:**  
-Add or remove permissions for a player.
 
 **Examples:**  
 - `Permissions.Add {eosid} VIP`
@@ -99,20 +99,19 @@ Add or remove permissions for a player.
 
 ### Multiply Quantity
 
+**Purpose:**  
 Multiply the quantity chosen by the customer using the following syntax: `{quantity*50}`
 
-**Note:**  
-You must first enable the **"Allow quantity choice"** option in your product settings.
+**Prerequisites:**  
+- You must first enable the **"Allow quantity choice"** option in your product settings. 
 
 Use this command on Tip4serv if you wish to sell bundles of 200 points:
 
 **Command:**  
-`AddPoints {eosid} {quantity*200}`
+- `AddPoints {eosid} {quantity*200}`
 
 This command will execute in your server console after a purchase if a player buys the product four times:
-
-**Command:**  
-`AddPoints 000263b63d2641b080241ce6463a0754 800`
+- `AddPoints 000263b63d2641b080241ce6463a0754 800`
 
 ## Comparison: Plugin vs RCON
 
