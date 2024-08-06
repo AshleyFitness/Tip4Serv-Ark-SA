@@ -4,8 +4,6 @@ Create your ARK Survival Ascended shop with [Tip4serv.com](https://tip4serv.com/
 
 ![Tip4Serv](https://tip4serv.com/img/logo.png)
 
-![ARK SA](https://tip4serv.com/pages/logos/Arksa.png)
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
