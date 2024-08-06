@@ -45,7 +45,7 @@ Tip4serv ensures secure communication by employing HMAC authentication, a robust
 Send a public thank you message in the server chat.
 
 **Example:**  
-`ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
+- `ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
 
 ### Sell Items and Experience
 
@@ -71,7 +71,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 - This command can be executed via the plugin or RCON.
 
 **Example Command:**  
-`AddPoints {eosid} 51`
+- `AddPoints {eosid} 51`
 
 ### Sell Permissions for Subscriptions
 
