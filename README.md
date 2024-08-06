@@ -42,16 +42,14 @@ Tip4serv ensures secure communication by employing HMAC authentication, a robust
 
 ### Broadcast
 
-**Purpose:**  
-Send a public thank you message in the server chat.
+**Purpose:** Send a public thank you message in the server chat.
 
 **Example:**  
 `ServerChat Thank you {arksa_username} for your {total_paid} {currency} donation`
 
 ### Sell Items and Experience
 
-**Purpose:**  
-Provide players with items or experience.
+**Purpose:** Provide players with items or experience.
 
 **Prerequisites:**  
 - The Tip4Serv plugin must be used, as these commands are incompatible with RCON.
@@ -66,8 +64,7 @@ Command generator: [ARK COMMANDS](https://arkids.net/commands)
 
 ### Sell Points
 
-**Purpose:**  
-Add points to a player's account, allowing them to purchase in-game items.
+**Purpose:** Add points to a player's account, allowing them to purchase in-game items.
 
 **Prerequisites:**  
 - [ArkShop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/) or [WShop UI mod](https://www.curseforge.com/ark-survival-ascended/mods/wshop-ui) is required.
@@ -78,8 +75,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 
 ### Sell Permissions for Subscriptions
 
-**Purpose:**  
-Add or remove permissions for a player.
+**Purpose:** Add or remove permissions for a player.
 
 **Prerequisites:**  
 - [Permissions plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-permissions-crossplay-supported.713/) is necessary.
@@ -99,8 +95,7 @@ Add or remove permissions for a player.
 
 ### Multiply Quantity
 
-**Purpose:**  
-Multiply the quantity chosen by the customer using the following syntax: `{quantity*50}`
+**Purpose:** Multiply the quantity chosen by the customer using the following syntax: `{quantity*50}`
 
 **Prerequisites:**  
 - You must first enable the **"Allow quantity choice"** option in your product settings. 
