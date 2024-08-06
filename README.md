@@ -1,4 +1,4 @@
-# Tip4Serv Donation plugin for ARK SA: Commands and Plugins Configuration
+# Tip4Serv Donation plugin for ARK SA
 
 This README provides detailed instructions on how to configure and utilize various commands and plugins for managing donations, item sales, experience points, and subscriptions on your ARK server.
 
@@ -17,7 +17,7 @@ This README provides detailed instructions on how to configure and utilize vario
 6. [Use the Plugin and RCON Together](#use-the-plugin-and-rcon-together)
 7. [Support](#support)
 
-## Donation Plugin for ARK:SA (Tip4Serv)
+## Description
 
 Create your ARK Survival Ascended shop with [Tip4serv.com](https://tip4serv.com/?ads=github) and monetize your community effectively. This addon connects your ARK Survival Ascended server to your online store, executing commands (group, money, items, etc.) in the server console following each donation.
 
