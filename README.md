@@ -39,7 +39,7 @@ Tip4serv ensures secure communication by employing HMAC authentication, a robust
 3. **Choose Connection Method:** Select either the plugin or RCON for connection.
 4. **Configure Plugins:** Follow the provided instructions to set up the plugins.
 
-## Commands
+## Commands Example
 
 ### Broadcast
 
