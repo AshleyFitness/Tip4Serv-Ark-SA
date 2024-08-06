@@ -56,7 +56,7 @@ Provide players with items or experience.
 **Prerequisites:**  
 - The Tip4Serv plugin must be used, as these commands are incompatible with RCON.
 - Ensure the plugin is installed on the server where the player will receive their items.
-- Check the **"Allow server choice"** option and select **"Player must be online"** in the product editor.
+- Check the **"Allow server choice"** option and select **"Run only if player is online"** in the product editor.
 
 **Examples:**  
 - `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
@@ -113,7 +113,7 @@ Multiply the quantity chosen by the customer using the following syntax: `{quant
 - **Plugin:**
   - Ideal for player-specific actions, such as giving items or experience.
   - Requires at least one player to be online for command execution.
-  - Commands are executed by the buyer when you select the **"Player must be online"** option.
+  - Commands are executed by the buyer when you select the **"Run only if player is online"** option.
 
 - **RCON:**
   - Ideal for adding points or managing subscriptions.
