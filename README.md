@@ -70,7 +70,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 - [ArkShop plugin](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/) or [WShop UI mod](https://www.curseforge.com/ark-survival-ascended/mods/wshop-ui) is required.
 - This command can be executed via the plugin or RCON.
 
-**Example Command:**  
+**Example:**  
 - `AddPoints {eosid} 51`
 
 ### Sell Permissions for Subscriptions
