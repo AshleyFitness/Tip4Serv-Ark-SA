@@ -19,7 +19,7 @@ Create your ARK Survival Ascended shop with [Tip4serv.com](https://tip4serv.com/
 
 ## Introduction
 
-This README provides detailed instructions on how to configure and utilize various commands and plugins for managing donations, item sales, experience points, and subscriptions on your ARK server.
+This README provides detailed instructions on how to configure and utilize various commands and plugins for managing donations, item sales, experience points, and subscriptions on your ARK Survival Ascended server.
 
 ### HMAC Authentication
 
