@@ -128,7 +128,7 @@ You can use the plugin to sell items and RCON for managing subscriptions.
 1. Go to [MY SERVERS](https://tip4serv.com/dashboard/my-servers).
 2. Add your server and connect it using the plugin.
 3. Add another server and connect it via RCON.
-4. In the product editor, select the RCON server for granting/revoking permissions and the PLUGIN server for item distribution.
+4. In the [product editor](https://docs.tip4serv.com/store-setup/server-commands#id-2.-product-editor), select the RCON server for granting/revoking permissions and the PLUGIN server for item distribution.
 
 ## Support
 
