@@ -114,7 +114,11 @@ The plugin requires at least one player to be connected for a command to be exec
 
 Configuration: Simply delete the plugins from your servers and connect them via RCON in [MY SERVERS](https://tip4serv.com/dashboard/my-servers)
 
-Advantage: The delivery system via RCON works similarly to the plugin but can execute commands even if no players are connected to the server.
+Advantage: The delivery system via RCON works similarly to the plugin but can execute commands even if no players are connected to the server (ideal if you sell subscriptions).
+
+Disadvantage: RCON cannot execute commands by a player, you must use commands with {eosid} or {eu5_id}
+
+You can very well use the plugin to sell items and the RCON to sell subscriptions with expiration commands.
 
 ## Need help?
 
