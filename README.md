@@ -28,7 +28,7 @@ Tip4serv ensures secure communication by employing HMAC authentication, a robust
 ## Prerequisites
 
 - An ARK Survival Ascended server with [ARK Server API](https://gameservershub.com/forums/resources/ark-survival-ascended-serverapi-crossplay-supported.683/) installed if using this Tip4Serv plugin.
-- RCON access to the server if not utilizing the Tip4Serv plugin.
+- RCON access to the server if using the RCON Tip4Serv connection.
 - Installation of [ArkShop](https://gameservershub.com/forums/resources/ark-survival-ascended-arkshop-crossplay-supported.714/) and [Permissions](https://gameservershub.com/forums/resources/ark-survival-ascended-permissions-crossplay-supported.713/) plugins if needed.
 
 ## Installation
