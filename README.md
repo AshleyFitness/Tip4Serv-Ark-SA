@@ -57,6 +57,8 @@ Provide players with items or experience.
 - The Tip4Serv plugin must be used, as these commands are incompatible with RCON.
 - Ensure the plugin is installed on the server where the player will receive their items.
 - Check the **"Allow server choice"** option and select **"Run only if player is online"** in the product editor.
+  
+![Options](https://tip4serv.com/img/tuto/runonlyifplayerisonline2.png)
 
 **Examples:**  
 - `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
