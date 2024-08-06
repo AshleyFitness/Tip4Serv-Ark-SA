@@ -63,6 +63,8 @@ Provide players with items or experience.
 - `GiveItem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Wooden/PrimalItemStructure_WoodFenceFoundation.PrimalItemStructure_WoodFenceFoundation'" 1 1 false`
 - `AddExperience 500000 0 0`
 
+Command generator: [ARK COMMANDS](https://arkids.net/commands)
+
 ### Sell Points
 
 **Prerequisites:**  
