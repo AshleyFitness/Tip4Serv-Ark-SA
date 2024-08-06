@@ -7,7 +7,7 @@ This README provides detailed instructions on how to configure and utilize vario
 1. [Donation Plugin for ARK:SA (Tip4Serv)](#donation-plugin-for-arksa-tip4serv)
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
-4. [Commands](#commands)
+4. [Commands](#commands-example)
     - [Broadcast](#broadcast)
     - [Sell Items and Experience](#sell-items-and-experience)
     - [Sell Points](#sell-points)
