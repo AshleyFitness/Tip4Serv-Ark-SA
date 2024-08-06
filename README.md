@@ -53,8 +53,8 @@ Send a public thank you message in the server chat.
 **Prerequisites:**  
 - The Tip4Serv plugin must be used, as these commands are incompatible with RCON.
 - Ensure the plugin is installed on the server where the player will receive their items.
-- Check the "Allow server choice" option in the product editor.
-- Select "Player must be online" in the [command editor](https://docs.tip4serv.com/store-setup/server-commands#id-3.-commands-editor).
+- Check the **"Allow server choice"** option in the product editor.
+- Select **"Player must be online"** in the [command editor](https://docs.tip4serv.com/store-setup/server-commands#id-3.-commands-editor).
 
 **Purpose:**  
 Provide players with items or experience.
@@ -120,7 +120,7 @@ This command will execute in your server console after a purchase if a player bu
 - **Plugin:**
   - Ideal for player-specific actions, such as giving items or experience.
   - Requires at least one player to be online for command execution.
-  - Commands are executed by the buyer when you select the "Player must be online" option.
+  - Commands are executed by the buyer when you select the **"Player must be online"** option.
 
 - **RCON:**
   - Ideal for adding points or managing subscriptions.
