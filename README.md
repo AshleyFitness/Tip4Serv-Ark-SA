@@ -102,7 +102,7 @@ Add or remove permissions for a player.
 Multiply the quantity chosen by the customer using the following syntax: `{quantity*50}`
 
 **Note:**  
-You must first enable the **Allow quantity choice** option in your product settings.
+You must first enable the **"Allow quantity choice"** option in your product settings.
 
 Use this command on Tip4serv if you wish to sell bundles of 200 points:
 
