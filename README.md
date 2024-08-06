@@ -53,8 +53,7 @@ Send a public thank you message in the server chat.
 **Prerequisites:**  
 - The Tip4Serv plugin must be used, as these commands are incompatible with RCON.
 - Ensure the plugin is installed on the server where the player will receive their items.
-- Check the **"Allow server choice"** option in the product editor.
-- Select **"Player must be online"** in the [command editor](https://docs.tip4serv.com/store-setup/server-commands#id-3.-commands-editor).
+- Check the **"Allow server choice"** option and select **"Player must be online"** in the product editor.
 
 **Purpose:**  
 Provide players with items or experience.
