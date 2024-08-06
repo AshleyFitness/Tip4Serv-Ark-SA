@@ -4,7 +4,7 @@ This README provides detailed instructions on how to configure and utilize vario
 
 ## Table of Contents
 
-1. [Donation Plugin for ARK:SA (Tip4Serv)](#donation-plugin-for-arksa-tip4serv)
+1. [Introduction](#introduction)
 2. [Prerequisites](#prerequisites)
 3. [Installation](#installation)
 4. [Commands](#commands-example)
@@ -17,7 +17,7 @@ This README provides detailed instructions on how to configure and utilize vario
 6. [Use the Plugin and RCON Together](#use-the-plugin-and-rcon-together)
 7. [Support](#support)
 
-## Description
+## Introduction
 
 Create your ARK Survival Ascended shop with [Tip4serv.com](https://tip4serv.com/?ads=github) and monetize your community effectively. This addon connects your ARK Survival Ascended server to your online store, executing commands (group, money, items, etc.) in the server console following each donation.
 
