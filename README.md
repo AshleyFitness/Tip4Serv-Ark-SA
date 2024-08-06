@@ -1,4 +1,4 @@
-# ARK Server: Commands and Plugins Configuration
+# Tip4Serv Donation plugin for ARK SA: Commands and Plugins Configuration
 
 This README provides detailed instructions on how to configure and utilize various commands and plugins for managing donations, item sales, experience points, and subscriptions on your ARK server.
 
