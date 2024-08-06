@@ -127,6 +127,7 @@ This command will execute in your server console after a purchase if a player bu
   - Commands are executed directly by the server and can run even if the server is empty.
   - Self-commands like `GiveItem` or `AddExperience` cannot be used.
   - Only commands compatible with `{eosid}` or `{ue5id}` can be used.
+  - Can't send thank you message like the plugin, but you can use: `ServerChatToPlayer {arksa_username} Thank you for your order`
 
 ## Use the Plugin and RCON Together
 
