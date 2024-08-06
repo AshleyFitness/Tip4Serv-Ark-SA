@@ -93,7 +93,7 @@ Add or remove permissions for a player.
 
 **Procedure:**
 
-1. Go to the product editor.
+1. Go to the [product editor](https://docs.tip4serv.com/store-setup/server-commands).
 2. Enable subscriptions.
 3. Configure the command to execute after payment.
 4. Set up the command to execute when the subscription ends.
