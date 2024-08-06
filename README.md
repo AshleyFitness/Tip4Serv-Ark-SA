@@ -35,7 +35,7 @@ Tip4serv ensures secure communication by employing HMAC authentication, a robust
 
 1. **Create an Account:** Sign up at [Tip4serv.com](https://tip4serv.com/?ads=github).
 2. **Add Your Server:** Navigate to [MY SERVERS](https://tip4serv.com/dashboard/my-servers) and add an ARK server.
-3. **Choose Connection Method:** Select either the plugin or RCON for connection.
+3. **Choose Connection Method:** Select either the plugin or RCON.
 4. **Configure Plugins:** Follow the provided instructions to set up the plugins.
 
 ## Commands Example
