@@ -100,12 +100,10 @@ Multiply the quantity chosen by the customer using the following syntax: `{quant
 **Prerequisites:**  
 - You must first enable the **"Allow quantity choice"** option in your product settings. 
 
-Use this command on Tip4serv if you wish to sell bundles of 200 points:
-
-**Command:**  
+**Use this command on Tip4serv if you wish to sell bundles of 200 points:**
 - `AddPoints {eosid} {quantity*200}`
 
-This command will execute in your server console after a purchase if a player buys the product four times:
+**This command will execute in your server console after a purchase if a player buys the product four times:**
 - `AddPoints 000263b63d2641b080241ce6463a0754 800`
 
 ## Comparison: Plugin vs RCON
