@@ -2,7 +2,7 @@
 
 Create your ARK Survival Ascended shop with [Tip4serv.com](https://tip4serv.com/?ads=github) and monetize your community effectively. This addon connects your ARK Survival Ascended server to your online store, executing commands (group, money, items, etc.) in the server console following each donation.
 
-[Tip4Serv](https://tip4serv.com/img/logo.png)
+![Tip4Serv](https://tip4serv.com/img/logo.png)
 
 ## Table of Contents
 
