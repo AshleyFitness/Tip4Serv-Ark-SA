@@ -118,16 +118,15 @@ This command will execute in your server console after a purchase if a player bu
 ## Comparison: Plugin vs RCON
 
 - **Plugin:**
-  - Ideal for player-specific actions, such as granting items or experience.
+  - Ideal for player-specific actions, such as giving items or experience.
   - Requires at least one player to be online for command execution.
   - Commands are executed by the buyer when you select the "Player must be online" option.
 
 - **RCON:**
-  - Commands are executed directly by the server.
-  - Commands can run even if the server is empty.
-  - Suitable for adding points or managing subscriptions.
+  - Ideal for adding points or managing subscriptions.
+  - Commands are executed directly by the server and can run even if the server is empty.
   - Self-commands like `GiveItem` or `AddExperience` cannot be used.
-  - Only commands compatible with `{eosid}` or `{ue5id}` can be utilized.
+  - Only commands compatible with `{eosid}` or `{ue5id}` can be used.
 
 ## Use the Plugin and RCON Together
 
@@ -135,9 +134,9 @@ You can use the plugin to sell items and RCON for managing subscriptions.
 
 **Procedure:**
 
-1. Go to MY SERVERS.
-2. Connect your server using the plugin.
-3. Add the same server and connect it via RCON.
+1. Go to [MY SERVERS](https://tip4serv.com/dashboard/my-servers).
+2. Add your server and connect it using the plugin.
+3. Add another server and connect it via RCON.
 4. In the product editor, select the RCON server for granting/revoking permissions and the PLUGIN server for item distribution.
 
 ## Support
