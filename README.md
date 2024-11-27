@@ -12,6 +12,7 @@ Create your ARK Survival Ascended shop with [Tip4serv.com](https://tip4serv.com/
 4. [Commands](#commands-example)
     - [Broadcast](#broadcast)
     - [Sell Items and Experience](#sell-items-and-experience)
+    - [Spawn Items and Dino](#spawn-items-and-dino)
     - [Sell Points](#sell-points)
     - [Sell Subscriptions](#sell-permissions-for-subscriptions)
     - [Multiply Quantity](#multiply-quantity)
