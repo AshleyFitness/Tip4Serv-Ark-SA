@@ -80,7 +80,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 
 **Prerequisites:**  
 - [Enhanced spawner](https://ark-server-api.com/resources/srs-enhanced-spawner.74/) is required.
-- These commands are useful if you only want to use RCON
+- These commands can be executed via the plugin or RCON.
 
 **Example:**  
 `ES.SpawnItemFor {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'" "" 5 1 1 50 500 0 0 0`
