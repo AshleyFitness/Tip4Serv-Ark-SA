@@ -66,8 +66,6 @@ Provide players with items or experience.
 
 Command generator: [ARK COMMANDS](https://arkids.net/commands)
 
-### Sell Points
-
 Add points to a player's account, allowing them to purchase in-game items.
 
 **Prerequisites:**  
@@ -76,6 +74,16 @@ Add points to a player's account, allowing them to purchase in-game items.
 
 **Example:**  
 - `AddPoints {eosid} 51`
+
+### Spawn Items and Dinos
+
+**Prerequisites:**  
+- [Enhanced spawner](https://ark-server-api.com/resources/srs-enhanced-spawner.74/) is required.
+- This command can be executed via the plugin or RCON.
+
+**Example:**  
+`ES.SpawnItemFor {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'" "" 5 1 1 50 500 0 0 0`
+`ES.SpawnDinoFor {eosid} "Blueprint'/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/MoroRaptor_Character_BP.MoroRaptor_Character_BP'" "'" 0 260 0 0 0 0 0 M`
 
 ### Sell Permissions for Subscriptions
 
