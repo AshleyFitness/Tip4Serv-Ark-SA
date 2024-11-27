@@ -76,7 +76,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 **Example:**  
 - `AddPoints {eosid} 51`
 
-### Spawn Items and Dinos
+### Spawn Items and Dino
 
 **Prerequisites:**  
 - [Enhanced spawner](https://ark-server-api.com/resources/srs-enhanced-spawner.74/) is required.
