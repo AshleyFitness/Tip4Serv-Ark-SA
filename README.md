@@ -91,7 +91,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 ### Give Resources
 
 **Prerequisites:**  
-- [Enhanced spawner](https://ark-server-api.com/resources/extended-rcon.111/) is required.
+- [Extended RCON](https://ark-server-api.com/resources/extended-rcon.111/) is required.
 - These commands can be executed via the plugin or RCON.
 
 **Example:**  
