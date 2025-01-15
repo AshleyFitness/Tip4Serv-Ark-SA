@@ -76,7 +76,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 **Example:**  
 - `AddPoints {eosid} 51`
 
-### Spawn Items and Dino
+### Spawn Dino and items with the exact armor, durability, damage...
 
 **Prerequisites:**  
 - [Enhanced spawner](https://ark-server-api.com/resources/srs-enhanced-spawner.74/) is required.
@@ -86,6 +86,15 @@ Add points to a player's account, allowing them to purchase in-game items.
 `ES.SpawnItemFor {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'" "" 5 1 1 50 500 0 0 0`
 
 `ES.SpawnDinoFor {eosid} "Blueprint'/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/MoroRaptor_Character_BP.MoroRaptor_Character_BP'" "'" 0 260 0 0 0 0 0 M`
+
+### Give Resources
+
+**Prerequisites:**  
+- [Enhanced spawner](https://ark-server-api.com/resources/extended-rcon.111/) is required.
+- These commands can be executed via the plugin or RCON.
+
+**Example:**  
+`GiveItemToEOSId {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element'" {quantity} 0 0`
 
 ### Sell Permissions for Subscriptions
 
