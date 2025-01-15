@@ -84,7 +84,7 @@ Add points to a player's account, allowing them to purchase in-game items.
 - These commands can be executed via the plugin or RCON.
 
 **Example:**  
-`ES.SpawnItemFor {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'" "" 5 1 1 50 500 0 0 0`
+`ES.SpawnItemFor {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'" "" 5 1 {quantity} 50 500 0 0 0`
 
 `ES.SpawnDinoFor {eosid} "Blueprint'/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/MoroRaptor_Character_BP.MoroRaptor_Character_BP'" "'" 0 260 0 0 0 0 0 M`
 
