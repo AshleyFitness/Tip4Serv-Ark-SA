@@ -68,6 +68,8 @@ Provide players with items or experience.
 
 Command generator: [ARK COMMANDS](https://arkids.net/commands)
 
+### Sell points
+
 Add points to a player's account, allowing them to purchase in-game items.
 
 **Prerequisites:**  
