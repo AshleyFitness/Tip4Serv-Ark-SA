@@ -87,11 +87,11 @@ Add points to a player's account, allowing them to purchase in-game items.
 
 `ES.SpawnDinoFor {eosid} "Blueprint'/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/MoroRaptor_Character_BP.MoroRaptor_Character_BP'" "'" 0 260 0 0 0 0 0 M`
 
-**Or use [ASA Bot Companion](https://www.curseforge.com/ark-survival-ascended/mods/asa-bot-companion) mod and command builder:**  
+**Or use [ASA Bot Companion](https://www.curseforge.com/ark-survival-ascended/mods/asa-bot-companion) mod:**  
 
-[Spawn Item](https://asa-bot.info/#/tools/spawnItem)
+[Spawn Item command builder](https://asa-bot.info/#/tools/spawnItem)
 
-[Spawn Dino](https://asa-bot.info/#/tools/spawnDino)
+[Spawn Dino command builder](https://asa-bot.info/#/tools/spawnDino)
 
 ### Give Resources
 
