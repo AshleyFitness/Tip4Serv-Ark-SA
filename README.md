@@ -83,14 +83,12 @@ Add points to a player's account, allowing them to purchase in-game items.
 
 **Use [Enhanced spawner](https://ark-server-api.com/resources/srs-enhanced-spawner.74/) plugin:**  
 
-**Example:**  
 `ES.SpawnItemFor {eosid} "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_RexSaddle.PrimalItemArmor_RexSaddle'" "" 5 1 {quantity} 50 500 0 0 0`
 
 `ES.SpawnDinoFor {eosid} "Blueprint'/Moros_Indomitable_Duo/IndominusRex/IndoRaptor/IndoRaptorBlueprints/MoroRaptor_Character_BP.MoroRaptor_Character_BP'" "'" 0 260 0 0 0 0 0 M`
 
-**Or use [ASA Bot Companion](https://www.curseforge.com/ark-survival-ascended/mods/asa-bot-companion) mod:**  
+**Or use [ASA Bot Companion](https://www.curseforge.com/ark-survival-ascended/mods/asa-bot-companion) mod and command builder:**  
 
-**Example:**  
 [Spawn Item](https://asa-bot.info/#/tools/spawnItem)
 
 [Spawn Dino](https://asa-bot.info/#/tools/spawnDino)
